@@ -6,7 +6,9 @@ This standalone configuration contains the window switcher only. Its editable `C
 
 ## Demo
 
-[Watch the recorded window-switching demonstration (MP4, 20 seconds)](demo/window-switcher.mp4)
+https://github.com/user-attachments/assets/1a8d5834-3ab0-4a5e-a159-0e6b85ca8356
+
+[Download the original recording](demo/window-switcher.mp4)
 
 ## Install
 
