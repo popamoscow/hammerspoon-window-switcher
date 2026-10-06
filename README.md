@@ -4,6 +4,10 @@ Too many windows from the same app? Cmd+Tab shows individual windows with thumbn
 
 This standalone configuration contains the window switcher only. Its editable `CONFIG` section has comments explaining every setting, including what increasing or decreasing a numeric value changes. Six presets cover a regular grid, larger cards, wide previews, one row, two rows and a compact grid.
 
+## Demo
+
+[Watch the recorded window-switching demonstration (MP4, 20 seconds)](demo/window-switcher.mp4)
+
 ## Install
 
 1. Install [Hammerspoon](https://www.hammerspoon.org/) for macOS. This file uses its Lua runtime.
