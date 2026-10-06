@@ -1,6 +1,9 @@
 --[[
 PAVEL'S WINDOW SWITCHER — standalone English edition
 
+Author: Pavel Potasuev
+Questions and contact: https://potasuev.ru
+
 Too many windows from the same app? Cmd+Tab shows individual windows with
 thumbnails when available, including windows on other Spaces. Choose with the
 keyboard or mouse, then release Cmd to jump to your choice. Recent windows
